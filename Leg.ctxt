@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Leg
+comment1.params=url
+comment1.target=boolean\ crawl(java.lang.String)
+comment2.params=word
+comment2.target=boolean\ searchForWord(java.lang.String)
+comment3.params=
+comment3.target=java.util.List\ getLinks()
+comment4.params=
+comment4.target=void\ main()
+numComments=5
